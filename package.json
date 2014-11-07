@@ -1,0 +1,19 @@
+{
+	"name": "helmutgranda.brackets-as",
+	"title": "ActionScript",
+	"description": "Syntax highlighting and Code Hints for ActionScript",
+	"homepage": "https://github.com/helmutgranda/brackets-as",
+	"version": "0.1.0",
+	"author": "Helmut Granda contact@helmutgranda.com (http://helmutgranda.com/)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/helmutgranda/brackets-as"
+	},
+	"license": {
+		"type": "MIT",
+		"url": "http://mit-license.org/"
+	},
+	"engines": {
+		"brackets": ">=0.40.0"
+	}
+}
