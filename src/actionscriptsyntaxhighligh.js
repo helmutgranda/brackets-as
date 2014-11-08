@@ -31,14 +31,31 @@ define(function (require, exports, module) {
         case 'MACRO':
         case 'WHERE':
         case 'PRIVATE':
+        case 'PUBLIC':
+        case 'CLASS':
         case 'ARRAY':
         case 'INT':
         case 'IMPORT':
         case 'FUNCTION':
         case 'MOVIECLIP':
         case 'OBJECT':
+        case 'LOADER':
+        case 'URLREQUEST':
+        case 'SHAPE':
+        case 'EVENT':
+        case 'COMPLETE':
+        case 'SPRITE':
+        case 'ADDCHILD':
+        case 'URLREQ':
+        case 'ADDEVENTLISTENER':
+        case 'LOAD':
             return 'keyword';
         case 'IMPORT':
+        case 'VAR':
+        case 'NEW':
+        case 'EXTENDS':
+        case 'CONTENTLOADERINFO':
+
             return 'directive';
         case 'BOOLEAN':
         case 'BREAK':

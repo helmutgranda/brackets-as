@@ -1,4 +1,4 @@
-<img src="http://img.shields.io/badge/version-0.1.0-green.svg?style=flat-square">
+<img src="http://img.shields.io/badge/version-0.2.0-green.svg?style=flat-square">
 [<img src="http://img.shields.io/badge/brackets-up--to--date-green.svg">](http://brackets.io/)
 [<img src="http://img.shields.io/badge/Brackets-code editor-blue.svg?style=flat-square">](http://brackets.io/)
 
