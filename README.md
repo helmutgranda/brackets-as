@@ -20,3 +20,5 @@ Syntax Highlight for:
 
 ###**Current State**
 Syntax highlighting and Code Hints for ActionScript, Roy lang package was used as guide.
+
+![Sample](https://raw.githubusercontent.com/helmutgranda/brackets-as/master/assample.png)
